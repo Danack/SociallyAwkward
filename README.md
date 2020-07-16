@@ -1,2 +1,7 @@
 # SociallyAwkward
-random collection of stuff related to hosting meetups online
+
+
+Physically distant socially awkward meetup
+
+
+
