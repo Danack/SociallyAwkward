@@ -10,23 +10,26 @@
 # Timeline
 
 
-T-60m people start being online for chatting, meeting and greeting
+T-60m - aka 5.30pm UTC (6.30pm UK Time) people start being online for chatting, meeting and greeting
 
-T-20m I start doing code of conduct, state aims of the meetup. 
+T-20m Turn on stream.
 
 Stream starting at: https://www.youtube.com/c/BaseReality/live
 
+I start doing code of conduct, state aims of the meetup which are:
+
  * Socialising
  * Experimenting with better forms of online meetup
- * Distributing info about PHP 
+ * Distributing info about PHP
  
-T0 Intro
+Stating the aims of the room allow guidance for people's behaviour.
  
-  * why am I doing this
+T0 - aka 6.30pm UTC (7.30pm UK Time) Intro
+ 
+  * why we're doing this
     * Rooms are a good model for how people should interact online.
     * Expectations and experiments.
-  
-  * Code of conduct
+    * Give plan for rest of meetup.
 
 T+10 In the room today. Go round and say to hello to people. 
 
@@ -79,10 +82,9 @@ Raving
 Asking
   Danack - tailwind, I have heard good things, but just don't get why people like it.
 
+4 * 5 minutes? Or just keep going until people get bored.
 
-4 * 5 minutes?
-
-T+105 Wrapping up. 
+T+105 Wrapping up. Feedback wanted joind.in. 
 
 T+110 Turn off stream.
 
