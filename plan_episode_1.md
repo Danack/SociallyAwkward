@@ -89,7 +89,7 @@ T+105 Wrapping up. Feedback wanted joind.in.
 T+110 Turn off stream.
 
 T+111 Everyone tells me how many times something went wrong with the live stream.
-
+  People chat until they don't want to chat no more.
 
 
 
