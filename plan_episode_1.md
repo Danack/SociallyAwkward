@@ -1,7 +1,7 @@
 
 # Overview
 
-* Chat location is (tbd) but somewhere on https://whereby.com/ 
+* Chat location is (tbd) but somewhere on https://whereby.com/danack
 * Stream and public live chat is at https://www.youtube.com/c/BaseReality/live
 * You don't need to have a video camera on if you don't want.
 * Please DO use headphones for chatting, with exception for when you're giving a talk.
